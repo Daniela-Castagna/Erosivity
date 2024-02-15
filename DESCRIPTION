@@ -1,0 +1,15 @@
+Package: Erosivity
+Type: Package
+Title: Erosivity
+Version: 0.1.0
+Author: Daniela Castagna
+Maintainer: Daniela Castagna <danicastagna.geo@gmail.com> ORCID: 0000-0002-6313-6437
+Description: This package includes 18 calibrated equations to estimate the monthly 
+    rainfall erosivity (El30m) in different locations in Brazil, obtained through 
+    a literature review. These equations enable the estimation of rainfall erosivity 
+    using data from pluviometric stations. Additionally, this package encompasses 
+    the formula for the rainfall coefficient (RC) and annual erosivity (El30).
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
